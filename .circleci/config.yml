@@ -8,4 +8,4 @@ jobs:
     machine: true
     resource_class: nautical-clouds/nautical-cloud-resource
     steps:
-      - run: echo "Hi I'm on Runners! and it works"
+      - run: echo "Hi I'm on Runners! and it works github "
